@@ -1,0 +1,1 @@
+In order to run BlazePose and the code Gait Annotation, the next libraries archives must be installed:
